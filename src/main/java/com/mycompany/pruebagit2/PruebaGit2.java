@@ -13,5 +13,7 @@ public class PruebaGit2 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("Comentario creado en la rama main");
+        System.out.println("Comentario creada en la rama prueba-rama");
+        System.out.println("Segundo comentario creado en la rama prueba-rama");
     }
 }
